@@ -1,0 +1,24 @@
+{
+  "name": "webminilogue",
+  "version": "1.0.1",
+  "description": "A web audio polyphonic synth inspired by Korg Minilogue",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guizmo2000/WebMinilogue.git"
+  },
+  "keywords": [
+    "synth",
+    "minilogue",
+    "WAP"
+  ],
+  "author": "Guillaume Etevenard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guizmo2000/WebMinilogue/issues"
+  },
+  "homepage": "https://github.com/guizmo2000/WebMinilogue#readme"
+}
