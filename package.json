@@ -1,6 +1,6 @@
 {
   "name": "webminilogue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A web audio polyphonic synth inspired by Korg Minilogue",
   "main": "main.js",
   "scripts": {
