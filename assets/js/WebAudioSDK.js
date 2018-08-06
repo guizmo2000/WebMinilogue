@@ -235,7 +235,7 @@ class WebAudioPluginCompositeNode extends CompositeAudioNode {
 
 
 
-  onMidi(msg) { };
+  //onMidi(msg) { };
 }
 
 
